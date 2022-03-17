@@ -18,5 +18,6 @@ jobs:
         run: pwd
       - name: ls
         run: ls /home/runner/work/sist.redesOmaracu-a
-      - name: cp
-        run: cp f1.png dir1
+      - name: cat
+        run: cat > lucas.txt
+      
