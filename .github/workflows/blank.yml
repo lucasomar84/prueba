@@ -15,5 +15,6 @@ jobs:
       - name: ejercicio3
         run: ls /
       - name: ejercicio 1 a
-        run: cp  folder
+        run: cp f1.png dir1/fi1copta.png
+
       
