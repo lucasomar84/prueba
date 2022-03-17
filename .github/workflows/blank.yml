@@ -1,3 +1,5 @@
+2 lines (16 sloc)  385 Bytes
+   
 name: Creo un proyecto
 
 on: [push]
@@ -14,7 +16,9 @@ jobs:
         run: ls /etc
       - name: ejercicio3
         run: ls /
-      - name: ejercicio 1 a
-        run: cp f1.png dir1/fi1copta.png
-
-      
+      - name: pwd
+        run: pwd
+      - name: cd
+        run: cd /home/runner/work/sist.redesOmaracu-a/sist.redesOmaracu-a
+      - name: cp
+        run: cp /home/runner/work/sist.redesOmaracu-a/sist.redesOmaracu-a
