@@ -15,5 +15,5 @@ jobs:
       - name: ejercicio3
         run: ls /
       - name: ejercicio 1 a
-        run: cp ejercicio.txt folder
+        run: cp / folder/ ejercicio.txt 
       
